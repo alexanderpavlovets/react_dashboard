@@ -1,5 +1,7 @@
 # react_dashboard
 
+## continue on 1:00:00
+
 ### Tools used and don't:
 - used create-react-app for crash course at least
 - used "es7 React/Redux/GraphQL/React-native snippets VSCode extension - shortcuts for react (rce + tab - creates component)
@@ -10,7 +12,7 @@
 
 
 ### To Do/Learb:
-- Redux - state holder
+- Redux - state holder. Because now todo doesn't have it - have to do "components drill" - instead just markComplete in "todoItem" -> a lot of props to get to most parent App.js
 - react hooks - maybe
 - webpack 
 - PropTypes for React - used already in Todo app
