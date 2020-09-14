@@ -3,6 +3,7 @@
 #### Do not forget :) 
 - `npx create-react-app [name]`
 - `npm i redux react-redux`
+- to add a redux extension to Chroe visit https://github.com/zalmoxisus/redux-devtools-extension and paster weird row to createState(allReducers, [past here])
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
