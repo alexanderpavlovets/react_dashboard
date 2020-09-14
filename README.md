@@ -9,7 +9,7 @@
 ### What is about: 
 - i'll take a crash course - create toDo as always - Done.
 - i'll take redux crash couse 
-- then i'll try to create some dashboard/knowledge base for ongoing work
+- then i'll try to create some dashboard/knowledge base template
 
 
 ### To Do/Learn:
@@ -26,6 +26,3 @@
 - npm run build - gues what will happen ). Investigate how to deploy on own server. 
 - redux - basically not for react , youcan use it with any library. react-redux - in this case
 - redux "createStore" function. What is "store" - general state storage in general. Refer to redux github
-
-
-# Continue on 50m - mess - look at this sheet again. Looks like total pain
