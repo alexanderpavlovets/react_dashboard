@@ -26,3 +26,6 @@
 - npm run build - gues what will happen ). Investigate how to deploy on own server. 
 - redux - basically not for react , youcan use it with any library. react-redux - in this case
 - redux "createStore" function. What is "store" - general state storage in general. Refer to redux github
+- Learn how to use async/await with react/redux
+
+# maybe once more take a look at traversity - maybe implement as Founbdvideo - hardcore a bit )
