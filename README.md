@@ -27,5 +27,6 @@
 - redux - basically not for react , youcan use it with any library. react-redux - in this case
 - redux "createStore" function. What is "store" - general state storage in general. Refer to redux github
 - Learn how to use async/await with react/redux
-
-# maybe once more take a look at traversity - maybe implement as Founbdvideo - hardcore a bit )
+- learn useState and useEffect from react - hooks for react functions (like didMount/didUpdate for class react components)
+- Move CSS files in separate folders (maybe)
+- insert images - logo other blabla stuff
