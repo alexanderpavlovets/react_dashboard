@@ -1,0 +1,27 @@
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 8vh;
+  border-bottom: 1px solid darkgray;
+  margin-bottom: 10px;
+}
+
+
+#nav {
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.navLink {
+  font-weight: 700;
+  text-decoration: none;
+  color: black;
+}
+
+.navLink:hover {
+  border-bottom: 2px solid;
+}

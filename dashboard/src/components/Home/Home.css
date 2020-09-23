@@ -1,0 +1,44 @@
+#home {
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+#homeLogo {
+  max-width: 500px;
+  margin-bottom: 5vh;
+}
+
+#homePageButtons {
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.homePageButton {
+  margin: 5px;
+  padding: 5px;
+  min-width: 250px;
+  text-align: center;
+	box-shadow: 3px 4px 7px 2px #899599;
+	background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+	background-color:#ededed;
+	border:1px solid #d6bcd6;
+	cursor:pointer;
+  color:black;
+	font-size:22px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e1e2ed;
+}
+.homePageButton:hover {
+	background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
+	background-color:#bab1ba;
+}
+.homePageButton:active {
+	position:relative;
+	top:1px;
+}

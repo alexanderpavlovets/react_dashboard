@@ -1,11 +1,11 @@
 import './App.css';
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
-import Header from './components/Header'
-import Home from './components/Home'
-import Tools from './components/Tools'
-import AboutUs from './components/AboutUs'
-import Playground from './components/Playground'
+import Header from './components/Header/Header'
+import Home from './components/Home/Home'
+import Tools from './components/Tools/Tools'
+import AboutUs from './components/AboutUs/AboutUs'
+import Playground from './components/Playground/Playground'
 
 function App() {
   return (

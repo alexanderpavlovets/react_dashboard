@@ -1,4 +1,5 @@
 import React from 'react'
+import './Playground.css'
 
 export default function Playground() {
   return (
