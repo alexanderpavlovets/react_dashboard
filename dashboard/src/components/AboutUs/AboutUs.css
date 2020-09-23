@@ -1,0 +1,20 @@
+#leaderWrapper {
+  width: 300px;
+  margin: auto;
+}
+
+#squadsWrapper {
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  max-width: 80%;
+}
+
+.squad {
+  width: 300px;
+  margin-top: 50px;
+}
+
+.squad h3 {
+  text-align: center;
+}

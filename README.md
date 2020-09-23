@@ -28,5 +28,4 @@
 - redux "createStore" function. What is "store" - general state storage in general. Refer to redux github
 - Learn how to use async/await with react/redux
 - learn useState and useEffect from react - hooks for react functions (like didMount/didUpdate for class react components)
-- Move CSS files in separate folders (maybe)
-- insert images - logo other blabla stuff
+
